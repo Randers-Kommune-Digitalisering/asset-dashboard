@@ -12,4 +12,5 @@ streamlit
 streamlit-keycloak
 streamlit-option-menu
 streamlit-antd-components
-streamlit_shadcn_ui
+psycopg2
+streamlit-shadcn-ui
